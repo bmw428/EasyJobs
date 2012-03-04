@@ -5,6 +5,7 @@ gem 'rails', '3.2.2'
 gem 'sqlite3'
 gem 'haml'
 gem 'haml-rails'
+gem 'compass', '>= 0.11.7'
 
 
 # Gems used only for assets and not required
